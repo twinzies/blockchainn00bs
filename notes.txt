@@ -1,0 +1,9 @@
+Solidity Notes
+
+A constructor in Solidity is totally different!
+
+A constructor is a special method in any object-oriented programming language which gets called whenever an object of a class is initialized. It is different in the case of Solidity. 
+
+Solidity provides a constructor declaration inside the smart contract and it invokes only once when the contract is deployed and is used to initialize the contract state.
+
+A default constructor is created by the compiler if there is no explicitly defined constructor.
